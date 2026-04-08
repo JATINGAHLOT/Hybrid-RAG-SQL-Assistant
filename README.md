@@ -334,6 +334,3 @@ EMBEDDING_MODEL
 
 ---
 
-## License
-
-Jayantdeshwal License
